@@ -1,0 +1,304 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3267,
+      "max": [
+        10.76262092590332,
+        1.8433948755264282,
+        5.184798717498779
+      ],
+      "min": [
+        -10.76262092590332,
+        -1.8433948755264282,
+        -2.766516923904419
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 39204,
+      "componentType": 5126,
+      "count": 3267,
+      "max": [
+        0.9950612187385559,
+        0.9998749494552612,
+        0.9963388442993164
+      ],
+      "min": [
+        -0.9979909062385559,
+        -0.9999897480010986,
+        -0.9994370937347412
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3267,
+      "max": [
+        0.9986003041267395,
+        0.9967745542526245,
+        0.9940477013587952,
+        1.0
+      ],
+      "min": [
+        -0.9998390674591064,
+        -0.5336839556694031,
+        -0.9423779249191284,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3267,
+      "max": [
+        0.9707000255584717,
+        0.9674599766731262
+      ],
+      "min": [
+        0.02928999997675419,
+        0.02928999997675419
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 26136,
+      "componentType": 5126,
+      "count": 3267,
+      "max": [
+        0.9707000255584717,
+        0.9674599766731262
+      ],
+      "min": [
+        0.02928999997675419,
+        0.02928999997675419
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 17892,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Grand Dog Studio (https://sketchfab.com/GrandDogStudio)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/3d-banana-01-fb1b6fc41f7e49adbf467e5e5988d190",
+      "title": "3D Banana - 01"
+    },
+    "generator": "Sketchfab-12.65.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 71568,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 52272,
+      "byteOffset": 71568,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 78408,
+      "byteOffset": 123840,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 52272,
+      "byteOffset": 202248,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 254520,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Banana_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Banana_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Banana_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Banana",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Banana_Banana_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        -2.220446049250313e-16,
+        1.0,
+        4.440892098500626e-16,
+        0.0,
+        -1.0,
+        -2.220446049250313e-16,
+        -4.930380657631324e-32,
+        0.0,
+        0.0,
+        -4.440892098500626e-16,
+        1.0,
+        0.0,
+        -0.012091167271137238,
+        -1.6763439703295441e-07,
+        0.012091335840523243,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "6428b7e348e446b9b19361ed5377d59b.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9999999999999867,
+        1.6292067073209113e-07,
+        0.0,
+        0.0,
+        -1.6292067073209113e-07,
+        0.9999999999999867,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Banana"
+    },
+    {
+      "mesh": 0,
+      "name": "Banana_Banana_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
