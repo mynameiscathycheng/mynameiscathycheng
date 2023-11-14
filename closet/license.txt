@@ -1,0 +1,11 @@
+Model Information:
+* title:	Closet
+* source:	https://sketchfab.com/3d-models/closet-000bef5af9d442bc9e3eaf61e03dfc38
+* author:	felipeEBr (https://sketchfab.com/felipeEBr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Closet" (https://sketchfab.com/3d-models/closet-000bef5af9d442bc9e3eaf61e03dfc38) by felipeEBr (https://sketchfab.com/felipeEBr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
