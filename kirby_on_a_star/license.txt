@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kirby on a star
+* source:	https://sketchfab.com/3d-models/kirby-on-a-star-b44b43b76a714192b97c7b64c73bcc43
+* author:	Knighthart (https://sketchfab.com/erickrag)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kirby on a star" (https://sketchfab.com/3d-models/kirby-on-a-star-b44b43b76a714192b97c7b64c73bcc43) by Knighthart (https://sketchfab.com/erickrag) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
