@@ -1,0 +1,11 @@
+Model Information:
+* title:	Escenario
+* source:	https://sketchfab.com/3d-models/escenario-ea9334535ada4c9990e6cbecdd83a6ee
+* author:	julen_correas (https://sketchfab.com/julen_correas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Escenario" (https://sketchfab.com/3d-models/escenario-ea9334535ada4c9990e6cbecdd83a6ee) by julen_correas (https://sketchfab.com/julen_correas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
